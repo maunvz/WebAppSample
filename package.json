@@ -1,0 +1,12 @@
+{
+  "name": "webappsample",
+  "version": "1.0.0",
+  "description": "A sample WebApp",
+  "repository": "https://github.com/maunvz/WebAppSample.git",
+  "author": "Mauricio Narvaez <maunvz@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "cd client && yarn && yarn build && cd ../server && yarn",
+    "start": "cd server && yarn startprod"
+  }
+}

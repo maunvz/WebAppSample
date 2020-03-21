@@ -4,5 +4,12 @@
   "description": "Backend server for WebAppSample",
   "main": "index.js",
   "author": "Mauricio Narvaez",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "startprod": "node index.js"
+  }
 }
