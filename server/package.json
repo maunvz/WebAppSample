@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Backend server for WebAppSample",
+  "main": "index.js",
+  "author": "Mauricio Narvaez",
+  "license": "MIT"
+}
